@@ -28,5 +28,6 @@ symbol b {
 }
 comment {
     background-color: #222;
+    z-index: 100;
 }
 
